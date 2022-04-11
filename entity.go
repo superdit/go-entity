@@ -1,5 +1,5 @@
 package goentity
 
 func HelloEntity() string {
-  return "HelloEntity"
+  return "HelloEntity 111"
 }

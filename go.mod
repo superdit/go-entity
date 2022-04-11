@@ -1,3 +1,3 @@
-module github.com/superdit/go-entity
+module github.com/superdit/goentity
 
 go 1.18

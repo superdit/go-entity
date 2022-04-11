@@ -1,4 +1,4 @@
-package go-entity
+package goentity
 
 func HelloEntity() string {
   return "HelloEntity"
